@@ -39,7 +39,7 @@ export default function Page() {
             </Breadcrumb>
           </div>
           <div className="w-10 h-10 shrink-0">
-            <ThemeToggleButton></ThemeToggleButton>
+            <ThemeToggleButton />
           </div>
         </header>
         <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
